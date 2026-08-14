@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-uqg032.pgbet72fki.cyou/sitemap.xml
